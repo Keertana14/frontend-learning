@@ -17,11 +17,11 @@ The goal of this project is to understand how to:
 ```
 ---
 ## 🏗️ Features Implemented
-✅ Proper HTML5 boilerplate structure  
-✅ Organized blog layout using headings, paragraphs, and sections  
-✅ Internal links between pages using `<a>` tags  
-✅ Semantic tags like `<header>`, `<article>`, `<section>`, `<footer>`  
-✅ Lists and hyperlinks inside articles  
+- Proper HTML5 boilerplate structure  
+- Organized blog layout using headings, paragraphs, and sections  
+- Internal links between pages using `<a>` tags  
+- Semantic tags like `<header>`, `<article>`, `<section>`, `<footer>`  
+- Lists and hyperlinks inside articles  
 ---
 ## 🧠 Key Learnings
 - Structuring webpages using semantic HTML (<header>, <main>, <footer>)
